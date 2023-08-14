@@ -1,0 +1,55 @@
+
+  .page5{
+    width: 100%;
+  }
+
+  #tiltslides{
+    width: 100%;
+    padding: 100px 40px;
+    rotate: -2.5deg;
+  }
+  .tilt-elem{
+    height: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+  #tiltslides p{
+    font-size: 25px;
+    font-weight: 900;
+    text-align: right;
+    padding: 30px 100px;
+  }
+  #tiltslides p:hover{
+    color:#95c11e
+  }
+
+  .page6{
+    width: 100%;
+    position: relative;
+    padding: 100px;
+  }
+    .testimonial{
+      margin-top: 50px;
+      background-color: black;
+    }
+  .testimonial h2{
+    height: 100%;
+    line-height: 40px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 20px 200px;
+    font-size: 30px;
+    font-weight: 900;
+  }
+  .page6 img{
+    top: 0;
+    left: 0;
+    width: 50px;
+  }
+  .page6 #down{
+    float: right;
+  }
+  .test{
+    background-color: black;
+  }
